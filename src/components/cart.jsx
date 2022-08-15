@@ -55,4 +55,4 @@ const CartSidebar = ({ show, handleClose }) => {
   );
 };
 
-export default CartSidebar;
+export default CartSidebar; 
